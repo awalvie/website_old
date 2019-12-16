@@ -1,14 +1,14 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://heiswayi.github.io/thinkspace # site url
+title_left    : "lyceum"
+title_right   : "" # default: ""
+description   : "ruminating about things"
+keywords      : "blog, jekyll"
+url           : https://awalvie.github.io/thinkspace # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
-twitter_username  : ""
+twitter_username  : "awalvie_"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
 postshare_enabled : false
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "awalvie"
 
 plugins:
   - jekyll-sitemap
@@ -41,5 +41,7 @@ navbar:
     title: About
   - slug : blog
     title: Blog
+  - slug : reading
+    title : Reading
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script", "vendor"]
