@@ -1,9 +1,9 @@
 # Site settings
 title_left    : "lyceum"
 title_right   : "" # default: ""
-description   : "ruminating about things"
-keywords      : "blog, jekyll"
-url           : https://awalvie.github.io/ # site url
+description   : "Hi, I'm awalvie, and this is Lyceum, I use this website log my weekly activity, projects and books"
+keywords      : "blog, jekyll, bookshelf"
+url           : https://awalvie.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 

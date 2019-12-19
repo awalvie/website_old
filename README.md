@@ -1,13 +1,3 @@
-# Thinkspace
+# Lyceum
 
-> Thinkspace is just another minimalist Jekyll theme which designed for technical writing blog.
-
-[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg) ![VERSION](https://img.shields.io/badge/current_version-2.5-green.svg) ![TRAVIS-CI](https://travis-ci.org/heiswayi/thinkspace.svg?branch=master)
-
-- **Demo:** https://heiswayi.github.io/thinkspace/
-
-![SCREENSHOT](https://i.imgur.com/1YS078k.png)
-
-## License
-
-[MIT](LICENSE.md)
+The goal of this website (as it previously was) is to log the activities that I do on a weekly basis, the Projects that I build, talk about the recent books I've read and maybe more things in the future.

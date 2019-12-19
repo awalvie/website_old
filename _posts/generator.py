@@ -6,12 +6,11 @@ time = datetime.datetime.now()
 time = str(time)
 time = time[0:16]
 file_title = input("file-title: ")
-title = file_title
+title = input("Main Title: ")
 category = input("Category: ")
 filename = str(x) + "-" + file_title + '.md'
 description = input("Description: ")
-text_to_write = '''
----
+text_to_write = '''---
 layout: post
 title: {0}
 description: {2}

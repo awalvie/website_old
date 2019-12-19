@@ -1,8 +1,8 @@
 - link: /blog
-  name: Blog
+  name: blog
 - link: /bookshelf
-  name: Bookshelf
+  name: books
 - link: /projects
-  name: Projects
+  name: projects
 - link: /about
-  name: About
+  name: about
