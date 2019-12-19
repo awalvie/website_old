@@ -3,6 +3,10 @@ _site/
 .bundle/
 Gemfile.lock
 
+# Visual Studio Code Ignores
+
+.vscode
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

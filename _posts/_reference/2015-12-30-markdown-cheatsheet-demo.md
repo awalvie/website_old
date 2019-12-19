@@ -2,6 +2,7 @@
 layout: post
 title: "Markdown Cheatsheet Demo"
 comments: true
+categories: blog
 description: "Markdown Cheatsheet Demo..."
 keywords: "markdown, typography components, dummy content"
 ---

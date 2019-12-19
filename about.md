@@ -6,12 +6,11 @@ permalink: /about/
 
 hi, I'm awalvie, also known as vishesh in the real world and welcome to my little corner on the internet. I am starting this blog as a way of motivating myself into making meaningful contributions to open source software, improve my writing skills (which you will be noticing throughout the blog are completely garbage) and being consistent.
 
-
 my weekends start with a nice
 {% highlight shell %}
 mkdir super_awesome_project
 {% endhighlight %}
-and end with 
+and end with
 {% highlight shell %}
 rm -rf ./super_awesome_project
 {% endhighlight %}
@@ -20,9 +19,7 @@ The social skills I lack (as pointed out by my parents), I like to think I make 
 
 I also like reading books and will be writing about them, these won't be reviews but just my thoughts put on paper.
 
-
-
-## Skill List 
+## Skill List
 
 * C
 * C++
@@ -30,10 +27,7 @@ I also like reading books and will be writing about them, these won't be reviews
 * CMake
 * OpenGL
 
-
-
-
-## Projects 
+## Projects
 
 * Voxel Based Game Engine
 * Chartram (My text-editor)

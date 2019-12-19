@@ -1,0 +1,8 @@
+- link: /blog
+  name: Blog
+- link: /bookshelf
+  name: Bookshelf
+- link: /projects
+  name: Projects
+- link: /about
+  name: About

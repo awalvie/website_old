@@ -3,6 +3,7 @@ layout: post
 title: "How to Download or Use This Theme"
 comments: true
 description: "How to Download or Use This Theme"
+categories: blog
 keywords: "dummy content"
 ---
 
