@@ -14,6 +14,7 @@ title: Bookshelf
 
 <section class="post-list">
     <div class="container">
+        <h2 class="category-title">2019</h2>
         {% for post in site.categories.bookshelf %} {% unless post.next %}
         <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
         {% else %} {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %} {% capture nyear %}{{ post.next.date | date: '%Y'
