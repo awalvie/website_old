@@ -32,3 +32,10 @@ I also like reading books and will be writing about them, these won't be reviews
 * Voxel Based Game Engine
 * Chartram (My text-editor)
 * My own Version Control System
+
+## Contact
+
+* [email](mailto:agrawal.vishesh.178@gmail.com)
+* [GitHub](https://github.com/awalvie)
+* [Spotify](https://open.spotify.com/user/0r1h88zkb8asdgtdqj87n07bm?si=fsUI27wmQraaUlBKQbAknw)
+* [twitter](https://twitter.com/awalvie_)
