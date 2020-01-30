@@ -15,9 +15,9 @@ The second book in the Hitchhiker's Series is as absurd and as funny as it's pre
 
 This legendary sci-fi series combines end of time, time manipulation, human evolution and madness influenced by one's unimportance on a cosmic scale in a short amount of pages that is incredibly fun to read. What more could you possibly want from a cosmic road-trip.
 
-Dissecting the books satire is highly subjective endeavour. Adams touches on various themes and the absurdity of our beliefs. The characters, as enjoyable as their personalities might be are not genius's but are rather abnormally normal (except having an extra limb and a second head). They question reality and accepted beliefs and demonstrate the fragility of accepted beliefs frequently.
+Dissecting the books satire is highly subjective endeavour. Adams touches on various themes and the absurdity of our beliefs. The characters, as enjoyable as their personalities might be are not genius's but are rather abnormally normal (except having an extra limb and a second head). They question reality and accepted beliefs and demonstrate their fragility frequently.
 
-I got out of this book exactly what I was looking for, a fun, carefree read, filled with laughter and joy. My only regret is that I didn't have a Pan Galactic Gargle Blaster while I reading it.
+I got out of this book exactly what I was looking for, a fun, carefree read, filled with laughter and joy. My only regret is that I didn't have a Pan Galactic Gargle Blaster while I was reading it.
 
 ___
 
