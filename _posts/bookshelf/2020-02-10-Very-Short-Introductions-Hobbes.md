@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Hobbes: A Very Short Introduction"
+description: the law of the nature
+categories: bookshelf 
+---
+
+> For such is the nature of man, that howsoever they may acknowledge many others to be more witty, or more eloquent, or more learned; Yet they will hardly believe there be many so wise as themselves: For they see their own wit at hand, and other mens at a distance.
+
+Hobbes: A Very Short Introduction by Richard Tuck belongs to a catalog of books published by the Oxford University Press. As the name implies these books are short introduction to things and people.
+
+Thomas Hobbes was a 17th century English philosopher who is chiefly remembered for **Leviathan** which is the definitive and judicious argument for why the people should obey government authority even of a very imperfect and brutal kind. He wrote extensively about politics, human nature, science and had a prolific impact on modern philosophy. This book divided into 3 sections talks about his life, his work and it's subsequent interpretation by his peers and the future generations.
+
+This was my first book related to Philosophy, specifically Political Philosophy, a branch that knew existed and went into it half-expecting to be bored because of my apprehension with anything related to politics. I was mesmerized. I would recommend that if you solely want to read about Hobbes and his work, you should consider skipping the first chapter as it's mostly a biography of his life.
+
+I was at a loss for words when the teacher (who recommended the book to me) asked me what I thought about the book. It was a very new and foreign experience to me. A very important lesson I've learn't is the importance of reading slowly. You're not supposed to rush to the end. People like Hobbes were some of the greatest thinkers in history. They condensed their infinite wisdom into a 400 page volume of paper. Every word, every sentence is exactly where it's supposed to be. The least you could do is concentrate and pay attention to understand their propositions and arguments to problems that have plagued humanity from time immemorial.
+
+---
+
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.in/kp/card?asin=B005G6O3KG&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_9BlrEbCFFW3N5" ></iframe>
