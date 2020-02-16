@@ -50,3 +50,7 @@ Norwegian Wood, the Beatles song summarizes the book perfectly.
 >So I lit a fire, isn't it good, Norwegian wood.
 >
 > -- The Beatles
+
+---
+
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.in/kp/card?asin=B005TKD6NY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_j.qsEbB4PJFCC" ></iframe>
