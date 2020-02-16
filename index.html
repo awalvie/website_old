@@ -8,7 +8,7 @@ title: Home
 
 <section class="post-list">
   <div class="container">
-    <h3>recent posts (<a class="post-link" href="{{'blog' | prepend: site.baseurl}}">all</a>)</h3>
+    <h3>recent blog posts (<a class="post-link" href="{{'blog' | prepend: site.baseurl}}">all</a>)</h3>
     {% for post in site.categories.blog %}
     {% if forloop.index != 5 %}
       <article class="post-item">
