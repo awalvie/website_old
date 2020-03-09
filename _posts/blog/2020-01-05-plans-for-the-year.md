@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Looking ahead to 2020
+title: looking ahead to 2020
 description: things I wish to achieve the next year
 categories: blog 
 ---

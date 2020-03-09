@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First of Many Updates
+title: first of many updates
 description: First Weekly Update
 categories: blog 
 ---
