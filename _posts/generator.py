@@ -1,4 +1,4 @@
-#!/bin/python
+#!/bin/python3
 
 import datetime
 x = datetime.date.today()
@@ -14,9 +14,9 @@ text_to_write = '''---
 layout: post
 title: {0}
 description: {2}
-categories: {1} 
+categories: {1}
 ---
-'''.format(title, category, description) 
+'''.format(title, category, description)
 
 print(text_to_write)
 
