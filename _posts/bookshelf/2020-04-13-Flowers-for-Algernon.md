@@ -19,9 +19,10 @@ Charlie's exponential mental growth can't keep up with his emotional growth, thi
 
 I thought the book was tragic, that Charlie had something of value taken away from him. But while writing this, I don't know if I believe the same anymore. Charlie lived more that most people. He was able to come to terms with his past, find a woman that he loved, loved the work that he did and had people that cared for him. He was happy in what he had. This is what the book teaches me, be grateful for what you have, cherish the people around you and live to be happy, be it cleaning the floor in the bakery or changing the world with your research, do what you find fulfilling and be grateful that you had the opportunity at life.
 
-> If this isn't nice, I don't know what it.
+> If this isn't nice, I don't know what is.
 >
 > -- Kurt Vonnegut
 
 ---
 
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.in/kp/card?asin=B009ZG6YPU&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_AGSLEbVJDH8TN" ></iframe>
